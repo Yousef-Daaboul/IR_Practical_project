@@ -1,0 +1,12 @@
+sql.db
+pickle_files
+.idea
+
+query_refinement/data_source
+query_refinement/query_pickle_files
+
+argsme.db
+clean_arguments.db
+clinicaltrials.db
+
+word_embedding/clinical_glove_model.txt
